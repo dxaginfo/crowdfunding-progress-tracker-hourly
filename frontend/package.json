@@ -1,0 +1,11 @@
+{
+  "name": "crowdfunding-progress-tracker-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "scripts": {
+    "start": "echo Run your React setup here"
+  }
+}
